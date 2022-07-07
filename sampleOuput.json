@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Texas migrant deaths: Suspected truck driver is charged",
+            "description": "Some 53 people, including children, died after being shut in a lorry in the blistering Texas heat.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61990497",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16AEE/production/_125701929_gettyimages-1241598836.jpg",
+            "publishedAt": "2022-06-30T04:37:21.6732067Z",
+            "content": "By Leo SandsBBC News\r\nThe suspected driver of a truck found abandoned in Texas with dozens of bodies inside has been charged with migrant smuggling resulting in death.\r\nHomero Zamorano was found posi… [+3466 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Palace review of how Meghan bullying claims were handled stays private",
+            "description": "An investigation into the handling of claims against the Duchess of Sussex will remain confidential.",
+            "url": "http://www.bbc.co.uk/news/uk-61984118",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14135/production/_125692228_mediaitem125692226.jpg",
+            "publishedAt": "2022-06-30T04:22:19.647715Z",
+            "content": "By Sean CoughlanRoyal correspondent\r\nThe findings of an investigation into the handling of allegations of bullying made against the Duchess of Sussex will remain private, says a senior Buckingham Pal… [+4889 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia invasion: Putin still wants to take most of Ukraine - US",
+            "description": "According to US intelligence assessments, Russia's invasion is likely to grind on for some time.",
+            "url": "http://www.bbc.co.uk/news/world-europe-61990495",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11ADA/production/_125701427_gettyimages-1241613333-1.jpg",
+            "publishedAt": "2022-06-30T01:52:24.573668Z",
+            "content": "Russian President Vladimir Putin still wants to capture most of Ukraine, US intelligence agencies believe.\r\nMoscow's troops have been so weakened by combat, however, that US officials assess they are… [+1970 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Philippines to swear in new leader as Duterte leaves",
+            "description": "Ferdinand \"Bongbong\" Marcos Jr will succeed Rodrigo Duterte after a historic election win in May.",
+            "url": "http://www.bbc.co.uk/news/world-asia-61976940",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/104D0/production/_125686766_gettyimages-1395951515.jpg",
+            "publishedAt": "2022-06-30T00:22:26.2100375Z",
+            "content": "By Zubaidah Abdul Jalil &amp; Howard JohnsonBBC News\r\nFerdinand Marcos Jr will be sworn in as the Philippines' next president on Thursday, succeeding the outgoing leader Rodrigo Duterte.\r\nMr Marcos J… [+2705 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Airbnb permanently bans parties and events around the world",
+            "description": "The home rental platform said a temporary ban, which was introduced in 2020, was popular with hosts.",
+            "url": "http://www.bbc.co.uk/news/business-61976350",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E3EC/production/_125684385_mediaitem125684383.jpg",
+            "publishedAt": "2022-06-29T22:07:23.4107937Z",
+            "content": "By Annabelle LiangBusiness reporter\r\nAirbnb has permanently banned parties and events at homes on its platform, after a temporary measure during the pandemic proved popular with hosts.\r\nThe firm says… [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Xavier Becerra: US is 'backsliding' with abortion ruling, says health secretary",
+            "description": "Overturning Roe v Wade puts the US at odds with most of the world, says Xavier Becerra in a BBC interview.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61955220",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1805F/production/_125699389_xb.jpg",
+            "publishedAt": "2022-06-29T20:37:21.8964332Z",
+            "content": "Media caption, US taking a 'backseat' on women's rights - health secretary\r\nThe US is going backwards on women's rights in the wake of the Supreme Court's recent abortion ruling, says the health secr… [+1963 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "R. Kelly given 30 years in jail in sex abuse case",
+            "description": "US singer R. Kelly sentenced to 30 years in jail for running a scheme to sexually abuse girls and women",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61989606",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-06-29T19:22:18.1420267Z",
+            "content": "US singer R. Kelly has been sentenced to 30 years in federal prison for sex charges.\r\nIn September, a jury in New York convicted the R&amp;B artist, 55, of racketeering and sex trafficking crimes com… [+519 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Paris attacks: Surviving suspect Salah Abdeslam found guilty",
+            "description": "Salah Abdeslam and others are found guilty for their involvement in an attack that killed 130.",
+            "url": "http://www.bbc.co.uk/news/world-europe-61989354",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-06-29T18:52:25.1891162Z",
+            "content": "The only survivor of the group behind the November 2015 Paris attacks has been found guilty of terrorism and murder charges.\r\nSalah Abdeslam was seen as a key suspect and participant in the gun and b… [+600 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Johnson says if Putin were a woman he would not have invaded",
+            "description": "Boris Johnson says President Putin's war in Ukraine is a \"perfect example of toxic masculinity\".",
+            "url": "http://www.bbc.co.uk/news/uk-61976526",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2C54/production/_125684311_hi077020543.jpg",
+            "publishedAt": "2022-06-29T14:07:23.858092Z",
+            "content": "By Adam DurbinBBC News\r\nRussian President Vladimir Putin would not have invaded Ukraine if he were a woman, Boris Johnson has claimed.\r\nThe UK prime minister said the \"crazy, macho\" invasion was a \"p… [+4081 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bruce's Beach returned to family nearly a century after seizure",
+            "description": "A prime beachfront space in Manhattan Beach is given back to its black owners after its 1924 seizure.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-61981785",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6DB8/production/_125688082_gettyimages-1241598950.jpg",
+            "publishedAt": "2022-06-29T11:52:21.9721637Z",
+            "content": "By David MolloyBBC News\r\nA prime beachfront resort seized from its black owners nearly 100 years ago has been returned to their descendants by officials in Los Angeles. \r\nBruce's Beach was purchased … [+2840 chars]"
+        }
+    ]
+}
